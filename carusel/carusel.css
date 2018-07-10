@@ -1,0 +1,145 @@
+.carousel .item img {
+padding-top: 40px;
+width: 100%;
+height: 100%;
+}
+/*---------- SLIDE CAPTION ----------*/
+.slide_style_left {
+    text-align: left !important;
+}
+.slide_style_right {
+    text-align: right !important;
+}
+.slide_style_center {
+    text-align: center !important;
+}
+
+.slide-text {
+    left: 0;
+    top: 43%;
+    right: 0;
+    margin: auto;
+    padding: 10px;
+    position: absolute;
+    text-align: left;
+    padding: 10px 85px;
+    
+}
+.slide-text > h1 {
+    padding: 0;
+    color: #ffffff;
+    font-size: 50px;
+    font-style: normal;
+    line-height: 84px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    display: inline-block;
+}
+.slide-text > p {
+    padding: 0;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 300;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+.slide-text > a.btn-default{
+   	padding: 8px 20px !important;
+	box-shadow: 2px 3px 7px -1px rgba(36,36,36,1);
+	background: #836fa8;
+	border-color: #836fa8;
+	color: #fff;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	font-family: "Droid Sans", Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+
+}
+.slide-text > a.btn-primary{
+	padding: 8px 20px !important;
+	box-shadow: 2px 3px 7px -1px rgba(36,36,36,1);
+	background: #836fa8;
+	border-color: #836fa8;
+	color: #fff;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	font-family: "Droid Sans", Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+.slide-text > a:hover,
+.slide-text > a:active {
+    color: #ffffff;
+    -webkit-transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+/*------------------------------------------------------*/
+/* RESPONSIVE
+/*------------------------------------------------------*/
+
+@media (max-width: 991px) {
+    .slide-text h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    .slide-text > p {
+
+        font-size: 18px;
+    }
+}
+/*---------- MEDIA 768px ----------*/
+@media  (max-width: 768px) {
+    .slide-text {
+        padding: 10px 50px;
+    }
+    .slide-text h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .slide-text > p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .control-round .carousel-control{
+        display: none;
+    }
+
+}
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 480px) {
+    .slide-text {
+        padding: 10px 30px;
+    }
+    .slide-text h1 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 5px;
+    }
+    .slide-text > p {
+        font-size: 7px;
+        line-height: 18px;
+        margin-bottom: 5px;
+    }
+
+    .slide-text > a.btn-primary {
+		padding: 3px 6px !important;
+		box-shadow: 2px 3px 7px -1px rgba(36,36,36,1);
+		background: #836fa8;
+		border-color: #836fa8;
+		color: #fff;
+		margin-right: 4px;
+		margin-bottom: 4px;
+		font-family: "Droid Sans", Arial, sans-serif;
+		font-size: 9px;
+		font-weight: 400;
+    }
+    .indicators-line > .carousel-indicators{
+        display: none;
+    }
+}
