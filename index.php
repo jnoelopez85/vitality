@@ -69,7 +69,7 @@
 					
 					<div class='row'>
 						<div class='col-md-12'>
-							<p>Sabemos que la tercera edad es una etapa en la que el adulto o adulto mayor va perdiendo ciertas facultades y tiende a enfermarse con frecuencia. La asistencia médica a domicilio puede brindar ese apoyo para que el cuidado o recuperación de la persona sea de calidad, y brinde seguridad y tranquilidad a su familia.</p>
+							<p>Y HY Sabemos que la tercera edad es una etapa en la que el adulto o adulto mayor va perdiendo ciertas facultades y tiende a enfermarse con frecuencia. La asistencia médica a domicilio puede brindar ese apoyo para que el cuidado o recuperación de la persona sea de calidad, y brinde seguridad y tranquilidad a su familia.</p>
 							<p>Vitality está conformado por un <strong> equipo de profesionales multidisciplinario (enfermeros, cuidadoras, psicólogos, tanatólogos y fisioterapeutas) </strong> que proporcionan asistencia, compañía, apoyo y rehabilitación para adultos o adultos mayores que requieren cuidados temporales o permanentes en casa u hospital.</p>
 							<p><b>Nuestra razón de ser: Mejorar la calidad de vida de la persona que cuidamos y de sus familiares.</b></p>
 						</div>
