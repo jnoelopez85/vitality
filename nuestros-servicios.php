@@ -16,110 +16,195 @@
 
 	<br>
 	<br>
-	
-	<div id='gtco-subscribe'>
+	<div id='gtco-tituloServicio'>
 		<div class='gtco-container'>
 			<div class='row'>
 				<div class='col-md-12'>
-					<form class='form-inline'>
-						<br>
-						<h1 class='text-center'>Nuestros Servicios</h1>
-						<div class='col-md-3 col-sm-3'>
-							<div class='form-group animate-box' data-animate-effect='fadeIn'>
-								<img src='images/vitality-acompanamiento-hospitalario-atencion-domiciliaria.png' class='img-responsive center-block' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
-								<h2>Acompañamiento hospitalario o Atención domiciliaria:</h2>
-								<p>En situaciones de hospitalización se envía a un enfermero a acompañar y vigilar el progreso del paciente.</p>
-								<p>Acompañamiento de enfermeras(os) o cuidadoras dependiendo de las necesidades del paciente.</p>
-								<p class='lista'>-Contamos con turnos de 8, 12 y 24 horas.</p>
-								<p class='lista'>-Guardias diurnas y nocturnas.</p>
-								<p class='lista'>-Incluye consejería psicológica.</p>
-								<p class='lista'><a href='actividades-servicios-enfermera-cuidadora-vitality-adultos-mayores.pdf'><b><i>Conoce las actividades realizadas por cada perfil.</i></b></a></p>
-							</div>
-						</div>
-						
-						<div class='col-md-3 col-sm-3'>
-							<div class='form-group animate-box' data-animate-effect='fadeIn'>
-								<img src='images/vitality-fisioterapia-a-domicilio.png' class='img-responsive center-block' alt='Fisioterapia a domicilio para adultos en vitality'>
-								<h2>Fisioterapia a domicilio:</h2>
-								<p class='lista'>-Mantener la máxima movilidad articular.</p>
-								<p class='lista'>-Mantener o restaurar la independencia.</p>
-								<p class='lista'>-Mantener o incrementar la fuerza muscular.</p>
-							</div>
-						</div>
-						<div class='col-md-3 col-sm-3'>
-							<div class='form-group animate-box' data-animate-effect='fadeIn'>
-								<img src='images/vitality-psicoterapia.png' class='img-responsive center-block' alt='Atencion psicológica a domicilio vitality'>
-								<h2>-Psicoterapia para el paciente o sus familiares.</h2>
-								<h2>-Programas de Estimulación cognitiva o de Terapia ocupacional.</h2>
-								<h2>-Acompañamiento Tanatológico.</h2>
-								<p>Porque la salud emocional también es importante.</p>
-							</div>
-						</div>
-						
-						<div class='col-md-3 col-sm-3'>
-							<div class='form-group animate-box' data-animate-effect='fadeIn'>
-								<img src='images/vitality-apoyo-prehospitalario-a-domicilio.png' class='img-responsive center-block' alt='Apoyo pre hospitalario a domicilio, inyecciones, curaciones vitality Mérida'>
-								<h2>Apoyo pre hospitalario a domicilio:</h2>
-								<p class='lista'>-Curaciones de pie diabético, escaras, colostomía y traqueotomía.</p>
-								<p class='lista'>-Hidratación oral.</p>
-								<p class='lista'>-Inyecciones.</p>
-								<p class='lista'>-Canalizaciones.</p>
-								<p class='lista'>-Acompañamiento a citas médicas.</p>
-								<p class='lista'>-Acompañamiento a laboratorio.</p>
-							</div>
-						</div>
-						
-					</form>
+					<br>
+					<h1 class='center'><img class="titulo-icon" src='images/Icono-Servicios.png' alt='Valoración inicial vitality'> NUESTROS SERVICIOS</h1>
 				</div>
 			</div>
 		</div>
 	</div>
 	
-	<br>
-	<br>
+	
+	<div id='gtco-servicios1'>
+		<div class='gtco-container'>
+			<div class='row'>
+				<div class='col-md-12'>
+						<div class='col-md-6 col-sm-6'>
+							<div class=' animate-box' data-animate-effect='fadeIn'>
+									<br>
+									<img src='images/CUIDADOS-ASISTENCIALES.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+									<br>
+							</div>
+						</div>
+						
+						<div class='col-md-6 col-sm-6'>
+							<div class='animate-box' data-animate-effect='fadeIn'>
+								<br>
+								<br>
+								<br>
+								<h2><img class="titulo-icon" src='images/icono-asistencia-en-el-hogar.png' alt='Valoración inicial vitality'> ASISTENCIA EN EL HOGAR DE ENFERMERAS O CUIDADORAS (O)</h2>
+								<ul>
+									<li>Acompañamiento de enfermería o cuidadoras asistenciales dependiendo de las necesidades del paciente</li>
+									<li>Contamos con turnos de 8, 12 y 24 horas.</li>
+									<li>Incluye visita mensual de apoyo psicológico.</li>
+								</ul>
+								<h2><img class="titulo-icon" src='images/icono-acompanamiento-hospitalario.png' alt='Valoración inicial vitality'> ACOMPAÑAMIENTO HOSPITALARIO</h2>
+								<ul>
+									<li>En situaciones de hospitalización se envía a un enfermero(a) a acompañar y vigilar el progreso del paciente.</li>
+								</ul>
+								<br>
+								<i>&emsp; &emsp; Enfermera (o) / Cuidadora</i>
+								<p>&emsp; &emsp;&nbsp;&nbsp; <a href='nuestros-servicios.php' title='Servicios y compromiso con el adulto mayor' class='btn btn-primary btn-lg'>Actividades por perfil</a></p>
+							</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	
+	<div id='gtco-servicios2'>
+		<div class='gtco-container'>
+			<div class='row'>
+				<div class='col-md-12'>
+						
+						<div class='col-md-6 col-sm-6'>
+							<div class='animate-box' data-animate-effect='fadeIn'>
+								<br>
+								<h2><img class="titulo-icon-fisio" src='images/icono-fisioterapia.png' alt='Valoración inicial vitality'> FISIOTERAPIA MANUAL</h2>
+								<p>Orientado a pacientes con: EVC, Fracturas, Post operatorios, Parkinson, problemas de espalda, ciática o lumbar, fibromialgia, hombro doloroso, dolor en cervicales, dolor de rodillas y/o artritis. O toda aquella persona con poca o nula actividad física</p>								
+								<h2>OBJETIVOS</h2>
+								<ul class='vineta_fisio'>
+									<li>Mantener la máxima movilidad articular.</li>
+									<li>Mantener o restaurar la independencia en las actividades de la vida diaria.</li>
+									<li>Mantener o incrementar la fuerza muscular.</li>
+									<li>Alivio del dolor agudo post-traumático y post-quirúrgico.</li>
+								</ul>
+								
+								<img class='pull-left' src='images/icono-fisioterapia-hogar.png' alt='Valoración inicial vitality' style='width: 2.3em;'>
+								<p>Las sesiones de Fisioterapia son impartidas en el hogar para la mayor comodidad y seguridad del paciente.</p>
+							</div>
+						</div>
+						<div class='col-md-6 col-sm-6'>
+							<div class=' animate-box' data-animate-effect='fadeIn'>
+									<br>
+									<img src='images/CUIDADOS-POST-OPERATORIOS.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+									<br>
+							</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id='gtco-servicios3'>
+		<div class='gtco-container'>
+			<div class='row'>
+				<div class='col-md-12'>
+						<div class='col-md-6 col-sm-6'>
+							<div class=' animate-box' data-animate-effect='fadeIn'>
+									<br>
+								<img src='images/CUIDADOS-BIENESTAR-EMOCIONAL.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+									<br>
+
+							</div>
+						</div>
+						<div class='col-md-6 col-sm-6'>
+							<div class='animate-box' data-animate-effect='fadeIn'>
+								<br>
+								<h2><img class="titulo-icon" src='images/icono-psicoterapia.png' alt='Valoración inicial vitality'> PSICOTERAPIA PARA EL PACIENTE Y/O SUS FAMILIARES</h2>
+								<p>Trabajamos con el paciente y/o familiares para ayudarlo a cambiar pensamientos, sentimientos o conductas que lo aquejan; a través de estrategias de intervención cognitiva, afectivas, conductuales o sistemáticas que trabajan para el bienestar, crecimiento personal y desarrollo ocupacional del paciente.</p>
+								<h2><img class="titulo-icon" src='images/icono-terapia-ocupacional.png' alt='Valoración inicial vitality'> PROGRAMAS DE TERAPIA OCUPACIONAL</h2>
+								<p>El objetivo de la terapia ocupacional es ayudar a la persona a que sea más independiente al realizar sus tareas cotidianas.</p>
+								<h2><img class="titulo-icon" src='images/icono-estimulacion-cognitiva.png' alt='Valoración inicial vitality'> PROGRAMAS DE ESTIMULACIÓN COGNITIVA</h2>
+								<p>Ejercicios y actividades que tienen como objetivo el estimular, mejorar y mantener las capacidades y funcionamiento cognitivo existente y ralentizar el deterioro que se produce.</p>
+								<h2><img class="titulo-icon" src='images/icono-acompanamiento-tanatologico.png' alt='Valoración inicial vitality'> ACOMPAÑAMIENTO TANATOLÓGICO</h2>
+								<p>Trabajamos con las personas y sus familiares que han sufrido una pérdida, asistiéndolos en las diferentes etapas del duelo y ayudándolos a comprenderla, enfrentarla y superarla</p>
+						</div>
+						
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div id='gtco-servicios1'>
+		<div class='gtco-container'>
+			<div class='row animate-box' data-animate-effect='fadeIn''>
+				<div class='col-md-12'>
+						
+						<div class='col-md-6 col-sm-6'>
+							<div class='col-md-12'>
+								<div class='col-md-6 col-sm-6'>
+									<ul class='vineta_urgencia'>
+										<li>Curaciones</li>
+										<li>Hidratación Oral</li>
+										<li>Inyecciones</li>
+										<li>Canalizaciones</li>
+									</ul>
+								</div>
+								<div class='col-md-6 col-sm-6'>
+									<ul class='vineta_urgencia'>
+										<li>Enemas</li>
+										<li>Nebulizaciones</li>
+										<li>Baños en cama</li>
+										<li>Acompañamiento a citas médicas</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class='col-md-6 col-sm-6'>
+							<div class=' animate-box' data-animate-effect='fadeIn'>
+									<br>
+								<img src='images/CUIDADOS-DE-URGENCIA.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+									<br>
+
+							</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	
 	<div class='gtco-section-overflow'>
 
 		<div class='gtco-section' id='gtco-compromisos' data-section='services'>
 			<div class='gtco-container'>
-				<h1 class='text-center'>Nuestros Compromisos</h1>
+				<h1 class='text-center'>
+					Nuestros Compromisos
+				</h1>
 				<br>
 				<div class='row'>
 					<div class='col-md-12 animate-box' data-animate-effect='fadeIn'>
 						<div class='row'>
+							
 							<div class='col-md-4 col-sm-4'>
-								<div class='feature-left'>
+								<div class='feature-center'>
 									<span class='icon'>
-										<img src='images/vitality-valoracion-inicial.png' alt='Valoración inicial vitality'>
+										<img class='img-responsive center-block' src='images/vitality-valoracion-inicial.png' alt='Nuestro personal vitality'>
 									</span>
-									<div class='feature-copy'>
-										<h2>Valoración Inicial:</h2>
-										<p>Realización de una evaluación previa para conocer cuál es el personal más idóneo para el paciente, los cuidados de enfermería a realizar o el programa de fisioterapia a aplicar.</p>
-									</div>
+									<h2 class='center'>Valoración Inicial</h2>						
+								</div>
+							</div>	
+							
+							<div class='col-md-4 col-sm-4'>
+								<div class='feature-center'>
+									<span class='icon'>
+										<img class='img-responsive center-block' src='images/vitality-mejor personal.png' alt='Nuestro personal vitality'>
+									</span>
+									<h2 class='center'>El mejor personal</h2>						
 								</div>
 							</div>
 							
 							<div class='col-md-4 col-sm-4'>
-								<div class='feature-left'>
+								<div class='feature-center'>
 									<span class='icon'>
-										<img src='images/vitality-mejor personal.png' alt='Nuestro personal vitality'>
+										<img class='img-responsive center-block' src='images/vitality-supervision-constante.png' alt='Nuestro personal vitality'>
 									</span>
-									<div class='feature-copy'>
-										<h2>El mejor personal:</h2>
-										<p>Personal capacitado, con conocimiento y experiencia en el área de enfermería y cuidado geriátrico.</p>
-									</div>
-								</div>
-							</div>
-							
-							<div class='col-md-4 col-sm-4'>
-								<div class='feature-left'>
-									<span class='icon'>
-										<img src='images/vitality-supervision-constante.png' alt='Siempre al pendiente vitality'>
-									</span>
-									<div class='feature-copy'>
-										<h2>Supervisión constante:</h2>
-										<p>Supervisamos y asesoramos a nuestro personal de manera continua para asegurarnos de que recibes el mejor servicio.</p>
-									</div>
+									<h2 class='center'>Supervisión Constante</h2>						
 								</div>
 							</div>
 
@@ -128,31 +213,27 @@
 					
 					<div class='col-md-12 animate-box' data-animate-effect='fadeIn'>
 						<div class='row'>
+							<div class='col-md-2 col-sm-2'>
+								
+							</div>
 							<div class='col-md-4 col-sm-4'>
-								<div class='feature-left'>
+								<div class='feature-center'>
 									<span class='icon'>
-										<img src='images/vitality-garantia.png' alt='Garantia vitality'>
+										<img class='img-responsive center-block' src='images/vitality-garantia.png' alt='Nuestro personal vitality'>
 									</span>
-									<div class='feature-copy'>
-										<h2>Garantía de cobertura:</h2>
-										<p>En caso de alguna incidencia imprevista de nuestro personal, cubrimos el servicio en un plazo no mayor a 4 horas, con personal de igual compromiso, conocimiento y dedicación.</p>
-									</div>
+									<h2 class='center'>Garantía de Cobertura</h2>						
 								</div>
 							</div>
 							
 							<div class='col-md-4 col-sm-4'>
-								<div class='feature-left'>
+								<div class='feature-center'>
 									<span class='icon'>
-										<img src='images/vitality-calidad.png' alt='Calidad en nuestro servicio vitality'>
+										<img class='img-responsive center-block' src='images/vitality-psicoterapia.png' alt='Nuestro personal vitality'>
 									</span>
-									<div class='feature-copy'>
-										<h2>Calidad:</h2>
-										<p>Confianza y tranquilidad de tener a tu familiar en buenas manos y en personal que respetará y cuidará en todo momento su integridad, intimidad y salud.</p>
-									</div>
+									<h2 class='center'>Confianza y Tranquilidad</h2>						
 								</div>
 							</div>
-							
-							<div class='col-md-4 col-sm-4'>
+							<div class='col-md-2 col-sm-2'>
 								
 							</div>
 							
