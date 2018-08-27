@@ -953,7 +953,6 @@ form label {
 
 #gtco-servicios1 li{
   margin-left: -22px;
-  line-height: 1.3em;
 }
 
 #gtco-servicios2 {
@@ -1021,8 +1020,8 @@ ul.vineta_fisio{
 
 ul.vineta_urgencia{
 	list-style-type: none;
-    padding-left: 7px;
-	padding-top: 5em;
+	padding-left: 7px;
+	padding-top: 2em;
 }
 
 .vineta_urgencia li{
@@ -1032,7 +1031,7 @@ ul.vineta_urgencia{
 	background-repeat: no-repeat;
 	padding-left: 19px;
 	padding-bottom: 2.5em;
-	line-height: 17px;
+	line-height: 20px;
 	font-size: 1.1em;
 }
 

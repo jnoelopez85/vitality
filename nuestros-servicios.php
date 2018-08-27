@@ -143,7 +143,7 @@
 
 							</div>
 						</div>
-						
+						<br>
 						<div class='col-md-6 col-md-pull-6'>
 							<div class='col-md-12'>
 								<div class='col-md-6 col-sm-6'>
@@ -151,7 +151,7 @@
 										<li>Curaciones</li>
 										<li>Hidratación Oral</li>
 										<li>Inyecciones</li>
-										<li>Canalizaciones</li>
+										<li style='padding-bottom: 0px;' >Canalizaciones</li>
 									</ul>
 								</div>
 								<div class='col-md-6 col-sm-6'>
