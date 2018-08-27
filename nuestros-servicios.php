@@ -35,7 +35,7 @@
 						<div class='col-md-6 col-sm-6'>
 							<div class=' animate-box' data-animate-effect='fadeIn'>
 									<br>
-									<img src='images/CUIDADOS-ASISTENCIALES.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+									<img src='images/CUIDADOS-ASISTENCIALES.jpg' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
 									<br>
 							</div>
 						</div>
@@ -91,7 +91,7 @@
 						<div class='col-md-6 col-sm-6'>
 							<div class=' animate-box' data-animate-effect='fadeIn'>
 									<br>
-									<img src='images/CUIDADOS-POST-OPERATORIOS.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+									<img src='images/CUIDADOS-POST-OPERATORIOS.jpg' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
 									<br>
 							</div>
 						</div>
@@ -107,7 +107,7 @@
 						<div class='col-md-6 col-sm-6'>
 							<div class=' animate-box' data-animate-effect='fadeIn'>
 									<br>
-								<img src='images/CUIDADOS-BIENESTAR-EMOCIONAL.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+								<img src='images/CUIDADOS-BIENESTAR-EMOCIONAL.jpg' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
 									<br>
 
 							</div>
@@ -159,7 +159,7 @@
 						<div class='col-md-6 col-sm-6'>
 							<div class=' animate-box' data-animate-effect='fadeIn'>
 									<br>
-								<img src='images/CUIDADOS-DE-URGENCIA.png' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
+								<img src='images/CUIDADOS-DE-URGENCIA.jpg' class='img-responsive' alt='Servicio de acompañamiento hospitalario o atención domiciliaria Mérida Yucatán'>
 									<br>
 
 							</div>
