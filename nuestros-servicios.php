@@ -122,7 +122,7 @@
 								<h2><img class="titulo-icon" src='images/icono-estimulacion-cognitiva.png' alt='Estimulacion Cognitiva Vitalitymexico'> PROGRAMAS DE ESTIMULACIÓN COGNITIVA</h2>
 								<p>Ejercicios y actividades que tienen como objetivo el estimular, mejorar y mantener las capacidades y funcionamiento cognitivo existente y ralentizar el deterioro que se produce.</p>
 								<h2><img class="titulo-icon" src='images/icono-acompanamiento-tanatologico.png' alt='Ayuda Tanatológica Vitalitymexico'> ACOMPAÑAMIENTO TANATOLÓGICO</h2>
-								<p>Trabajamos con las personas y sus familiares que han sufrido una pérdida, asistiéndolos en las diferentes etapas del duelo y ayudándolos a comprenderla, enfrentarla y superarla</p>
+								<p>Trabajamos con las personas y sus familiares que han sufrido una pérdida, asistiéndolos en las diferentes etapas del duelo y ayudándolos a comprenderla, enfrentarla y superarla.</p>
 						</div>
 						
 				</div>
