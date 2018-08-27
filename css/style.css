@@ -924,12 +924,11 @@ form label {
 }
 
 #gtco-tituloServicio h1{
-	color: #555;
-	font-weight: bold;
 	font-size: 24px;
+	color: #777777;
 }
 #gtco-servicios1 {
-  color: #555;
+  color: #777777;
   background: #f7f7f7;
 }
 
@@ -940,16 +939,16 @@ form label {
 
 #gtco-servicios1 h2{
 	font-family: "vitality", Arial, sans-serif;
-	font-weight: bold;
-	font-size: 19px;
+	font-size: 16px;
 	line-height: 1.3;
 	margin-bottom: 10px;
-	margin-left: 37px;
-	text-indent: -36px;
+    margin-left: 26px;
+    text-indent: -30px;
+    padding-top: 1.1em;
 }
 
 #gtco-servicios1 p{
-  color: #555;
+  color: #777777;
 }
 
 #gtco-servicios1 li{
@@ -958,7 +957,7 @@ form label {
 }
 
 #gtco-servicios2 {
-  color: #555;
+  color: #777777;
   background: #efefef;
 }
 
@@ -969,21 +968,20 @@ form label {
 
 #gtco-servicios2 h2{
     font-family: "vitality", Arial, sans-serif;
-    font-weight: bold;
-	font-size: 19px;
+	font-size: 16px;
 	line-height: 1.3;
 	margin-bottom: 8px;
 }
 
 #gtco-servicios2 p{
-  color: #555;
+  color: #777777;
   padding-bottom: 26px;
 }
 
 ul.vineta_fisio{
 	list-style-type: none;
     padding-left: 7px;
-
+	padding-top: 5px;
 }
 
 .vineta_fisio li{
@@ -997,7 +995,7 @@ ul.vineta_fisio{
 }
 
 #gtco-servicios3 {
-  color: #555;
+  color: #777777;
   background: #fff;
   padding-bottom: 0px;
 }
@@ -1009,16 +1007,16 @@ ul.vineta_fisio{
 
 #gtco-servicios3 h2{
 	font-family: "vitality", Arial, sans-serif;
-    font-weight: bold;
-    font-size: 19px;
+    font-size: 16px;
     line-height: 1.3;
     margin-bottom: 10px;
-    margin-left: 37px;
-    text-indent: -36px;
+    margin-left: 26px;
+    text-indent: -30px;
+    padding-top: .8em;
 }
 
 #gtco-servicios3 p{
-  color: #555;
+  color: #777777;
 }
 
 ul.vineta_urgencia{
@@ -1030,13 +1028,12 @@ ul.vineta_urgencia{
 .vineta_urgencia li{
 	background-image: url(../images/vineta_cuidados_urgencia.png);
 	background-size: 13px;
-	background-position-y: 7px;
+	background-position-y: 4px;
 	background-repeat: no-repeat;
 	padding-left: 19px;
 	padding-bottom: 2.5em;
 	line-height: 17px;
-	font-weight: bold;
-	font-size: 1.3em;
+	font-size: 1.1em;
 }
 
 #gtco-subscribe {
@@ -2369,7 +2366,6 @@ ul.vineta_urgencia{
 }
 
 #gtco-compromisos h2{
-	color: #555;
     font-size: 18px;
     padding-left: 12px;
 	margin-top: 20px;

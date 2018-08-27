@@ -21,7 +21,7 @@
 			<div class='row'>
 				<div class='col-md-12'>
 					<br>
-					<h1 class='center'><img class="titulo-icon" src='images/Icono-Servicios.png' alt='Icono Nuestros Servicios Vitalitymexico'> NUESTROS SERVICIOS</h1>
+					<h1 class='center'><img class="titulo-icon" src='images/Icono-Servicios.png' alt='Icono Nuestros Servicios Vitalitymexico'> Nuestros servicios</h1>
 				</div>
 			</div>
 		</div>
@@ -42,7 +42,6 @@
 						
 						<div class='col-md-6 col-sm-6'>
 							<div class='animate-box' data-animate-effect='fadeIn'>
-								<br>
 								<br>
 								<br>
 								<h2><img class="titulo-icon" src='images/icono-asistencia-en-el-hogar.png' alt='Enfermera a domicilio merida yucatan'> ASISTENCIA EN EL HOGAR DE ENFERMERAS(OS) O CUIDADORAS</h2>
@@ -76,7 +75,7 @@
 								<br>
 								<h2><img class="titulo-icon-fisio" src='images/icono-fisioterapia.png' alt='Fisioterapia manual vitality'> FISIOTERAPIA MANUAL</h2>
 								<p>Orientado a pacientes con: EVC, Fracturas, Post operatorios, Parkinson, problemas de espalda, ciática o lumbar, fibromialgia, hombro doloroso, dolor en cervicales, dolor de rodillas y/o artritis. O toda aquella persona con poca o nula actividad física</p>								
-								<h2>OBJETIVOS</h2>
+								<h2><strong>Objetivos</strong></h2>
 								<ul class='vineta_fisio'>
 									<li>Mantener la máxima movilidad articular.</li>
 									<li>Mantener o restaurar la independencia en las actividades de la vida diaria.</li>
