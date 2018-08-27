@@ -45,9 +45,9 @@
 								<br>
 								<br>
 								<br>
-								<h2><img class="titulo-icon" src='images/icono-asistencia-en-el-hogar.png' alt='Enfermera a domicilio merida yucatan'> ASISTENCIA EN EL HOGAR DE ENFERMERAS O CUIDADORAS (O)</h2>
+								<h2><img class="titulo-icon" src='images/icono-asistencia-en-el-hogar.png' alt='Enfermera a domicilio merida yucatan'> ASISTENCIA EN EL HOGAR DE ENFERMERAS(OS) O CUIDADORAS</h2>
 								<ul>
-									<li>Acompañamiento de enfermería o cuidadoras asistenciales dependiendo de las necesidades del paciente</li>
+									<li>Acompañamiento de personal de enfermería o cuidadoras asistenciales dependiendo de las necesidades del paciente.</li>
 									<li>Contamos con turnos de 8, 12 y 24 horas.</li>
 									<li>Incluye visita mensual de apoyo psicológico.</li>
 								</ul>
