@@ -70,7 +70,14 @@
 			<div class='row'>
 				<div class='col-md-12'>
 						
-						<div class='col-md-6 col-sm-6'>
+						<div class='col-md-6 col-md-push-6'>
+							<div class=' animate-box' data-animate-effect='fadeIn'>
+									<br>
+									<img src='images/CUIDADOS-POST-OPERATORIOS.jpg' class='img-responsive' alt='Cuidados post operatorios Mérida Yucatán'>
+									<br>
+							</div>
+						</div>
+						<div class='col-md-6 col-md-pull-6'>
 							<div class='animate-box' data-animate-effect='fadeIn'>
 								<br>
 								<h2><img class="titulo-icon-fisio" src='images/icono-fisioterapia.png' alt='Fisioterapia manual vitality'> FISIOTERAPIA MANUAL</h2>
@@ -85,13 +92,6 @@
 								
 								<img class='pull-left' src='images/icono-fisioterapia-hogar.png' alt='Fisioterapia a domicilio' style='width: 2.3em;'>
 								<p>Las sesiones de Fisioterapia son impartidas en el hogar para la mayor comodidad y seguridad del paciente.</p>
-							</div>
-						</div>
-						<div class='col-md-6 col-sm-6'>
-							<div class=' animate-box' data-animate-effect='fadeIn'>
-									<br>
-									<img src='images/CUIDADOS-POST-OPERATORIOS.jpg' class='img-responsive' alt='Cuidados post operatorios Mérida Yucatán'>
-									<br>
 							</div>
 						</div>
 				</div>
@@ -134,8 +134,17 @@
 		<div class='gtco-container'>
 			<div class='row animate-box' data-animate-effect='fadeIn''>
 				<div class='col-md-12'>
+				
+						<div class='col-md-6 col-md-push-6'>
+							<div class=' animate-box' data-animate-effect='fadeIn'>
+									<br>
+								<img src='images/CUIDADOS-DE-URGENCIA.jpg' class='img-responsive' alt='Urgencias médicas a domicilio Mérida Yucatán'>
+									<br>
+
+							</div>
+						</div>
 						
-						<div class='col-md-6 col-sm-6'>
+						<div class='col-md-6 col-md-pull-6'>
 							<div class='col-md-12'>
 								<div class='col-md-6 col-sm-6'>
 									<ul class='vineta_urgencia'>
@@ -153,14 +162,6 @@
 										<li>Acompañamiento a citas médicas</li>
 									</ul>
 								</div>
-							</div>
-						</div>
-						<div class='col-md-6 col-sm-6'>
-							<div class=' animate-box' data-animate-effect='fadeIn'>
-									<br>
-								<img src='images/CUIDADOS-DE-URGENCIA.jpg' class='img-responsive' alt='Urgencias médicas a domicilio Mérida Yucatán'>
-									<br>
-
 							</div>
 						</div>
 				</div>
