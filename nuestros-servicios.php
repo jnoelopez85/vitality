@@ -82,7 +82,7 @@
 								<br>
 								<h2><img class="titulo-icon-fisio" src='images/icono-fisioterapia.png' alt='Fisioterapia manual vitality'> FISIOTERAPIA MANUAL</h2>
 								<p>Orientado a pacientes con: EVC, Fracturas, Post operatorios, Parkinson, problemas de espalda, ciática o lumbar, fibromialgia, hombro doloroso, dolor en cervicales, dolor de rodillas y/o artritis. O toda aquella persona con poca o nula actividad física</p>								
-								<h2><strong>Objetivos</strong></h2>
+								<h2><strong>Servicios</strong></h2>
 								<ul class='vineta_fisio'>
 									<li>Mantener la máxima movilidad articular.</li>
 									<li>Mantener o restaurar la independencia en las actividades de la vida diaria.</li>
