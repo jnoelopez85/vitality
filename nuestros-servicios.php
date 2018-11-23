@@ -84,10 +84,7 @@
 								<p>Orientado a pacientes con: EVC, Fracturas, Post operatorios, Parkinson, problemas de espalda, ciática o lumbar, fibromialgia, hombro doloroso, dolor en cervicales, dolor de rodillas y/o artritis. O toda aquella persona con poca o nula actividad física</p>								
 								<h2><strong>Servicios</strong></h2>
 								<ul class='vineta_fisio'>
-									<li>Mantener la máxima movilidad articular.</li>
-									<li>Mantener o restaurar la independencia en las actividades de la vida diaria.</li>
-									<li>Mantener o incrementar la fuerza muscular.</li>
-									<li>Alivio del dolor agudo post-traumático y post-quirúrgico.</li>
+									<li>Tratamiento de lesiones como: espolón, calcáneo, tendinitis, contracturas, esguinces, lumbalgia, y escolosis.</li>
 								</ul>
 								
 								<img class='pull-left' src='images/icono-fisioterapia-hogar.png' alt='Fisioterapia a domicilio' style='width: 2.3em;'>
