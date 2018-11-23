@@ -84,11 +84,13 @@
 								<p>Orientado a pacientes con: EVC, Fracturas, Post operatorios, Parkinson, problemas de espalda, ciática o lumbar, fibromialgia, hombro doloroso, dolor en cervicales, dolor de rodillas y/o artritis. O toda aquella persona con poca o nula actividad física</p>								
 								<h2><strong>Servicios</strong></h2>
 								<ul class='vineta_fisio'>
-									<li>Tratamiento de lesiones como: espolón, calcáneo, tendinitis, contracturas, esguinces, lumbalgia, y escolosis.</li>
+									<li><b>Tratamiento de lesiones como</b>: espolón, calcáneo, tendinitis, contracturas, esguinces, lumbalgia, y escolosis.</li>
+									<li><b>Masajes relajantes, linfático o descontracturante</b></li>
+									<li><b>Tratamiento de rehabilitación:</b>Secuelas de EVC, reeducación de la marcha, entre otros</li>
 								</ul>
 								
 								<img class='pull-left' src='images/icono-fisioterapia-hogar.png' alt='Fisioterapia a domicilio' style='width: 2.3em;'>
-								<p>Las sesiones de Fisioterapia son impartidas en el hogar para la mayor comodidad y seguridad del paciente.</p>
+								<p>Las sesiones de fisioterapia pueden ser impartidas tanto a domicilio como en el consultorio de acuerdo a las necesidades y comodidades del paciente.</p>
 							</div>
 						</div>
 				</div>
