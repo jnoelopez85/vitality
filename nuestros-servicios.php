@@ -86,7 +86,7 @@
 								<ul class='vineta_fisio'>
 									<li><b>Tratamiento de lesiones como:</b> espolón, calcáneo, tendinitis, contracturas, esguinces, lumbalgia, y escolosis.</li>
 									<li><b>Masajes relajantes, linfático o descontracturante.</b></li>
-									<li><b>Tratamiento de rehabilitación:</b> secuelas de EVC, reeducación de la marcha, entre otros</li>
+									<li><b>Tratamiento de rehabilitación:</b> Secuelas de EVC, reeducación de la marcha, entre otros.</li>
 								</ul>
 								
 								<img class='pull-left' src='images/icono-fisioterapia-hogar.png' alt='Fisioterapia a domicilio' style='width: 2.3em;'>
