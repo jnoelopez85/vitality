@@ -113,10 +113,9 @@
 							<div class='col-md-4 animate-box' data-animate-effect='fadeIn'>
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-location'></i>
-								<h5>Sucursal Mérida
-									C 20 No. 300A por 11 y 13 Cámara de Comercio Norte 
-									<br>
-									Sucursal Campeche
+								<h5>Sucursal Mérida<br>
+									C 20 No. 300A por 11 y 13 Cámara de Comercio Norte<br>
+									Sucursal Campeche<br>
 									Plaza Central, Avenida Central No. 45 Local 12 Colonia Barrio de Santa Ana.
 								</h5>
 								</div>
