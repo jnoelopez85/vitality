@@ -1,7 +1,5 @@
 <?php
 	require('libvitality.php');
-	
-/*
 	require('sendgrid-php/sendgrid-php.php');
 	require('sendgrid-php/vendor/autoload.php');
 	function correoSendGrid($destinatario, $remitente, $titulo, $texto){
@@ -22,7 +20,6 @@
 		$response = $sg->client->mail()->send()->post($mail);
 		return $response->statusCode().$response->headers().$response->body();
 	}
-*/
 ?>
 <!DOCTYPE HTML>
 <html lang='es'>
