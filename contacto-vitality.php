@@ -113,9 +113,11 @@
 							<div class='col-md-4 animate-box' data-animate-effect='fadeIn'>
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-location'></i>
-								<h5>
-									Calle 20 Num 300A por 11 y 13 Cámara de Comercio Norte.
-									<br>CP 97133, Merida, Yucatán.
+								<h5>Sucursal Mérida
+									C 20 No. 300A por 11 y 13 Cámara de Comercio Norte 
+									<br>
+									Sucursal Campeche
+									Plaza Central, Avenida Central No. 45 Local 12 Colonia Barrio de Santa Ana.
 								</h5>
 								</div>
 							</div>

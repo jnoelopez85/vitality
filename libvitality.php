@@ -340,14 +340,30 @@
 									</ul>
 								</div>
 							</div>
-							<div class='col-md-12'>
+							<br>
+							<div class='col-md-6'>
 								<div class='text-center'>
-									<small class='block'>Calle 20 Num 300A por 11 y 13 Cámara de Comercio Norte. CP 97133, Merida, Yucatán.
-									<br> Tel: 999.9432974 Celular: 999.2285419 Celular: 999.1695514</small>
+									<i class='icon-home'></i> SUCURSAL MÉRIDA
+									<small class='block'>C 20 No. 300A por 11 y 13 Cámara de Comercio Norte </small>
+									
 								</div>
 							</div>
+							
+							<div class='col-md-6'>
+								<div class='text-center'>
+									<i class='icon-home'></i> SUCURSAL CAMPECHE
+									<small class='block'>Plaza Central, Avenida Central No. 45 Local 12 Colonia Barrio de Santa Ana.</small>
+								</div>
+							</div>
+							
 							<div class='col-md-12'>
-								<div class='pull-left'>	
+								<div class='text-center'>
+									<small class='block'>Tel: 999.9432974 Celular: 999.2285419 Celular: 999.1695514</small>
+								</div>
+							</div>
+							
+							<div class='col-md-12'>
+								<div class='pull-left'>
 									<small class='block'><a href='$aviso_path'  target='_blank' >Aviso de privacidad | </a>
 										<a href='http://www.vitalitymexico.com/' target='_blank'>VitalityMexico.com &copy; $anno </a> 
 									</small>
