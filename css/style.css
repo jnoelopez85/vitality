@@ -61,7 +61,6 @@ ul.vineta{
   margin-right: auto;
 }
 
-
 #page {
   position: relative;
   overflow-x: hidden;
@@ -1243,6 +1242,12 @@ ul.vineta_urgencia{
 }
 #gtco-footer .copyright .block {
   display: block;
+}
+
+#gtco-footer .copyright b{
+	font-weight: 900;
+    color: #616161;
+	font-size: 1em;
 }
 
 #gtco-offcanvas {

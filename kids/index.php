@@ -304,32 +304,24 @@
 			<div class='col-md-12'>
 				<section id='contact-section'>
 					<div class='row address-details'>
-						<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
+						<div class='col-md-4 animate-box' data-animate-effect='fadeIn'>
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-home'></i>
-								<h5>Sucursal Mérida<br>
+								<h5><b>SUCURSAL MÉRIDA</b><br>
 									C 20 No. 300A por 11 y 13 Cámara de Comercio Norte
 								</h5>
 								</div>
 							</div>
-							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
+							<div class='col-md-4 animate-box' data-animate-effect='fadeIn'>
 								<div class='email wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.7s'>
 								<i class='icon-email'></i>
 								<h5>contacto@vitalitymexico.com</h5>
 								</div>
 							</div>
-							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
+							<div class='col-md-4 animate-box' data-animate-effect='fadeIn'>
 								<div class='phone wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.9s'>
 								<i class='icon-phone'></i>
 								<h5>Oficina: (999)9432974 <br>Celular: (999)2285419 <br>Celular: (999)1695514</h5>
-								</div>
-							</div>
-							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
-								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
-								<i class='icon-home'></i>
-								<h5>Sucursal Campeche<br>
-									Plaza Central, Avenida Central No. 45 Local 12 Colonia Barrio de Santa Ana.
-								</h5>
 								</div>
 							</div>
 					</div>
@@ -337,7 +329,7 @@
 			</div>
 
 			</div>
-		<?php footer("../aviso-de-privacidad-vitality.pdf"); ?>
+		<?php footer_kids("../aviso-de-privacidad-vitality.pdf"); ?>
 	</div>
 </body>
 

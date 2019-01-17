@@ -343,7 +343,7 @@
 							<br>
 							<div class='col-md-6'>
 								<div class='text-center'>
-									<i class='icon-home'></i> SUCURSAL MÉRIDA
+									<i class='icon-home'></i> <b>SUCURSAL MÉRIDA</b>
 									<small class='block'>C 20 No. 300A por 11 y 13 Cámara de Comercio Norte </small>
 									
 								</div>
@@ -351,7 +351,7 @@
 							
 							<div class='col-md-6'>
 								<div class='text-center'>
-									<i class='icon-home'></i> SUCURSAL CAMPECHE
+									<i class='icon-home'></i> <b>SUCURSAL CAMPECHE</b>
 									<small class='block'>Plaza Central, Avenida Central No. 45 Local 12 Colonia Barrio de Santa Ana.</small>
 								</div>
 							</div>
@@ -377,4 +377,52 @@
 		//echo" <script async='1' type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5919cf14af64f579'></script>";
 		analitycs();
 	}
+	function footer_kids($aviso_path){
+		$anno=date(Y);
+		echo"	
+			</main>
+				<footer id='gtco-footer' role='contentinfo' style='background-color: #ddd;'>
+					<div class='gtco-container'>
+						
+						<div class='row copyright'>
+							<div class='col-md-12'>
+								<div class='pull-right'>
+									<ul class='gtco-social-icons pull-right'>
+										<li><a title='Síguenos en Facebook' href='https://www.facebook.com/Vitalitymexico/'><i class='icon-facebook'></i></a></li>
+										<li><a title='Síguenos en nuestro blog WordPress' href='https://vitalitymexico.wordpress.com'><i class='icon-globe'></i></a></li>
+										<li><a title='Síguenos en Instagram' href='https://www.instagram.com/vitalitymexico/'><i class='icon-instagram'></i></a></li>
+									</ul>
+								</div>
+							</div>
+							<br>
+							<div class='col-md-12'>
+								<div class='text-center'>
+									<i class='icon-home'></i> <b>SUCURSAL MÉRIDA</b>
+									<small class='block'>C 20 No. 300A por 11 y 13 Cámara de Comercio Norte </small>
+									
+								</div>
+							</div>
+
+							<div class='col-md-12'>
+								<div class='text-center'>
+									<small class='block'>Tel: 999.9432974 Celular: 999.2285419 Celular: 999.1695514</small>
+								</div>
+							</div>
+							
+							<div class='col-md-12'>
+								<div class='pull-left'>
+									<small class='block'><a href='$aviso_path'  target='_blank' >Aviso de privacidad | </a>
+										<a href='http://www.vitalitymexico.com/' target='_blank'>VitalityMexico.com &copy; $anno </a> 
+									</small>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</footer>
+		";
+		//echo" <script async='1' type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5919cf14af64f579'></script>";
+		analitycs();
+	}
 ?>
+
