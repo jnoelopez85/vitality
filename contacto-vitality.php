@@ -153,7 +153,7 @@
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-home'></i>
 								<h5><b>SUCURSAL CAMPECHE</b><br>
-									Plaza Central, Avenida Central No. 45 Local 12 Colonia Barrio de Santa Ana.
+									Calle Oaxaca, andador Tabasco, Manzana 29 No. 81, Frac. Fidel Velázquez.
 								</h5>
 								</div>
 							</div>
