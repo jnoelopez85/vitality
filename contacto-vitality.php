@@ -106,18 +106,12 @@
 						<li class="active">
 							<a href="#mapa_merida" data-toggle="tab">Mérida</a>
 						</li>
-						<li>
-							<a href="#mapa_campeche"data-toggle="tab" >Campeche</a>
-						</li>
 					</ul>
 					
 					
 					<div class="tab-content clearfix">
 						<div class="tab-pane active" id="mapa_merida">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10535.460992654898!2d-89.60545967635932!3d20.99871870065108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56712dbaaa47ff%3A0x67f2b53ce42d8af9!2sVitality+M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1494619675904" width="100%" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
-						</div>
-						<div class="tab-pane" id="mapa_campeche">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2653.2851344351243!2d-90.49155559172588!3d19.869050770331484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDUyJzA4LjYiTiA5MMKwMjknMjQuMiJX!5e0!3m2!1ses!2smx!4v1556129691685!5m2!1ses!2smx" width="100%" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
 						</div>
 					</div>
 
@@ -146,14 +140,14 @@
 							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
 								<div class='phone wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.9s'>
 								<i class='icon-phone'></i>
-								<h5>Oficina: (999)9432974 <br>Celular: (999)2285419 <br>Celular: (999)1695514</h5>
+								<h5>Oficina: (999)9432974 <br>Celular: (999)1695514</h5>
 								</div>
 							</div>
 							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-home'></i>
 								<h5><b>SUCURSAL CAMPECHE</b><br>
-									Calle Oaxaca, andador Tabasco, Manzana 29 No. 81, Frac. Fidel Velázquez.
+									Celular: (999)2285419 
 								</h5>
 								</div>
 							</div>
