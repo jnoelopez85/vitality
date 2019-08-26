@@ -140,14 +140,14 @@
 							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
 								<div class='phone wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.9s'>
 								<i class='icon-phone'></i>
-								<h5>Oficina: (999)9432974 <br>Celular: (999)1695514</h5>
+								<h5>Oficina: (999)9432974 <br>Celular: (999)2285419</h5>
 								</div>
 							</div>
 							<div class='col-md-3 animate-box' data-animate-effect='fadeIn'>
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-home'></i>
 								<h5><b>SUCURSAL CAMPECHE</b><br>
-									Celular: (999)2285419 
+									Celular: (999)1695514
 								</h5>
 								</div>
 							</div>
