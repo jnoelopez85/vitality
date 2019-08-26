@@ -345,7 +345,7 @@
 								<div class='text-center'>
 									<i class='icon-home'></i> <b>SUCURSAL MÉRIDA</b>
 									<small class='block'>C 20 No. 300A por 11 y 13 Cámara de Comercio Norte </small>
-									
+									<small class='block'>Tel: 999.9432974 Celular: 999.2285419</small>
 								</div>
 							</div>
 							
@@ -358,12 +358,6 @@
 							
 							<div class='col-md-12'>
 								<div class='text-center'>
-									<small class='block'>Tel: 999.9432974 Celular: 999.2285419</small>
-								</div>
-							</div>
-							
-							<div class='col-md-12'>
-								<div class='pull-left'>
 									<small class='block'><a href='$aviso_path'  target='_blank' >Aviso de privacidad | </a>
 										<a href='http://www.vitalitymexico.com/' target='_blank'>VitalityMexico.com &copy; $anno </a> 
 									</small>
