@@ -23,7 +23,7 @@
 		echo"
 			<meta charset='utf-8'>
 			<meta http-equiv='X-UA-Compatible' content='IE=edge'>
-			<link rel='shortcut icon' href='images/vitality.ico'/>
+			<link rel='shortcut icon' href='http://vitalitymexico.com/images/vitality.ico'/>
 			<meta http-equiv='expires' content='86400'/>
 			
 			<title>$titulo</title>
