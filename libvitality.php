@@ -399,7 +399,7 @@
 
 							<div class='col-md-12'>
 								<div class='text-center'>
-									<small class='block'>Tel: 999.9432974 Celular: 999.2285419 Celular: 999.1695514</small>
+									<small class='block'>Tel: 999.9432974 Celular: 999.2285419</small>
 								</div>
 							</div>
 							
