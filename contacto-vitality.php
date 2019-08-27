@@ -147,7 +147,7 @@
 								<div class='address wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.3s'>
 								<i class='icon-home'></i>
 								<h5><b>SUCURSAL CAMPECHE</b><br>
-									Celular: (999)1695514
+									Celular: (999)2285419
 								</h5>
 								</div>
 							</div>

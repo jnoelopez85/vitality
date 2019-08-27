@@ -352,7 +352,7 @@
 							<div class='col-md-6'>
 								<div class='text-center'>
 									<i class='icon-home'></i> <b>SUCURSAL CAMPECHE</b>
-									<small class='block'>Celular: 999.1695514</small>
+									<small class='block'>Celular: 999.2285419</small>
 								</div>
 							</div>
 							
