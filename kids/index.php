@@ -321,7 +321,7 @@
 							<div class='col-md-4 animate-box' data-animate-effect='fadeIn'>
 								<div class='phone wow fadeInLeft' data-wow-duration='500ms' data-wow-delay='.9s'>
 								<i class='icon-phone'></i>
-								<h5>Oficina: (999)9432974 <br>Celular: (999)2285419 <br>Celular: (999)1695514</h5>
+								<h5>Oficina: (999)9432974 <br>Celular: (999)2285419</h5>
 								</div>
 							</div>
 					</div>
