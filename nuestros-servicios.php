@@ -32,33 +32,46 @@
 		<div class='gtco-container'>
 			<div class='row'>
 				<div class='col-md-12'>
-						<div class='col-md-6 col-sm-6'>
-							<div class=' animate-box' data-animate-effect='fadeIn'>
-									<br>
-									<img src='images/CUIDADOS-ASISTENCIALES.jpg' class='img-responsive' alt='Cuidados y asistencia a domicilio Mérida Yucatán'>
-									<br>
-							</div>
+					<div class='col-md-6 col-sm-6'>
+						<div class=' animate-box' data-animate-effect='fadeIn'>
+								<br>
+								<img src='images/CUIDADOS-ASISTENCIALES.jpg' class='img-responsive' alt='Cuidados y asistencia a domicilio Mérida Yucatán'>
+								<br>
 						</div>
+					</div>
 						
-						<div class='col-md-6 col-sm-6'>
-							<div class='animate-box' data-animate-effect='fadeIn'>
-								<br>
-								<br>
-								<h2><img class="titulo-icon" src='images/icono-asistencia-en-el-hogar.png' alt='Enfermera a domicilio merida yucatan'> ASISTENCIA EN EL HOGAR DE ENFERMERAS(OS) O CUIDADORAS</h2>
-								<ul>
-									<li>Acompañamiento de personal de enfermería o cuidadoras asistenciales dependiendo de las necesidades del paciente.</li>
-									<li>Contamos con turnos de 8, 12 y 24 horas.</li>
-									<li>Incluye visita mensual de apoyo psicológico.</li>
-								</ul>
-								<h2><img class="titulo-icon" src='images/icono-acompanamiento-hospitalario.png' alt='Acompañamiento a clinicas y hospitales'> ACOMPAÑAMIENTO HOSPITALARIO</h2>
-								<ul>
-									<li>En situaciones de hospitalización se envía a un enfermero(a) a acompañar y vigilar el progreso del paciente.</li>
-								</ul>
-								<br>
-								<i>&emsp; &emsp; Enfermera (o) / Cuidadora</i>
-								<p>&emsp; &emsp;&nbsp;&nbsp; <a href='actividades-servicios-enfermera-cuidadora-vitality-adultos-mayores.pdf' title='Descargar archivo PDF' class='btn btn-primary btn-lg'>Actividades por perfil</a></p>
+					<div class='col-md-6 col-sm-6'>
+						<div class='animate-box' data-animate-effect='fadeIn'>
+							<br>
+							<br>
+							<h2><img class="titulo-icon" src='images/icono-asistencia-en-el-hogar.png' alt='Enfermera a domicilio merida yucatan'> ASISTENCIA EN EL HOGAR DE ENFERMERAS(OS) O CUIDADORAS</h2>
+							<ul>
+								<li>Acompañamiento de personal de enfermería o cuidadoras asistenciales dependiendo de las necesidades del paciente.</li>
+								<li>Contamos con turnos de 8, 12 y 24 horas.</li>
+								<li>Nuestra atención se basa en la <b>metodología PAE: Proceso de Atención Domiciliaria</b>, con el que creamos planes de cuidados únicos y personalizados centrados en el individuo y no en la enfermedad.</li>
+							</ul>
+							<h2><img class="titulo-icon" src='images/icono-acompanamiento-hospitalario.png' alt='Acompañamiento a clinicas y hospitales'> ACOMPAÑAMIENTO HOSPITALARIO</h2>
+							<ul>
+								<li>En situaciones de hospitalización se envía a un enfermero(a) a acompañar y vigilar el progreso del paciente.</li>
+							</ul>
+							<div class='center' ><i>Enfermera (o) / Cuidadora</i> </div>
+							<p class='center'><a href='actividades-servicios-enfermera-cuidadora-vitality-adultos-mayores.pdf' title='Descargar archivo PDF' class='btn btn-primary btn-lg'>Actividades por perfil</a></p>
+							<br>
+							<br>
+							<p>En alianza con <b>Grupo MIDA (Medicina Integrada del Adulto)</b> para consultas a domicilio o en consultorio de médicos especialistas en padecimientos crónicos</p>
+							<div class='col-md-12'>
+								<div class='col-md-6 col-sm-6'>
+									<p class='center'> <a href='tel:019992544569' title='Clic para llamar' > <i class='icon-phone link-icon'> </i> <br> 
+										Tel: 01 999 254 4569</a> 
+									</p>
+								</div>
+								<div class='col-md-6 col-sm-6'>
+									<p class='center'> <a href="https://www.facebook.com/medicinadeladulto">  <i class='icon-facebook link-icon'></i> <a> </p>
+								</div>
 							</div>
 						</div>
+					</div>
+					<br> &emsp;
 				</div>
 			</div>
 		</div>
@@ -212,9 +225,6 @@
 					
 					<div class='col-md-12 animate-box' data-animate-effect='fadeIn'>
 						<div class='row'>
-							<div class='col-md-2 col-sm-2'>
-								
-							</div>
 							<div class='col-md-4 col-sm-4'>
 								<div class='feature-center'>
 									<span class='icon'>
@@ -232,8 +242,14 @@
 									<h2 class='center'>Confianza y Tranquilidad</h2>						
 								</div>
 							</div>
-							<div class='col-md-2 col-sm-2'>
-								
+							
+							<div class='col-md-4 col-sm-4'>
+								<div class='feature-center'>
+									<span class='icon'>
+										<img class='img-responsive center-block' src='images/vitality-mejor personal.png' alt='Logo El mejor personal'>
+									</span>
+									<h2 class='center'>Planes de cuidado personalizados</h2>						
+								</div>
 							</div>
 							
 						</div>
