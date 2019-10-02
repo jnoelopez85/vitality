@@ -61,8 +61,8 @@
 							<p>En alianza con <b>Grupo MIDA (Medicina Integrada del Adulto)</b> para consultas a domicilio o en consultorio de médicos especialistas en padecimientos crónicos</p>
 							<div class='col-md-12'>
 								<div class='col-md-6 col-sm-6'>
-									<p class='center'> <a href='tel:019992544569' title='Clic para llamar' > <i class='icon-phone link-icon'> </i> <br> 
-										Tel: 01 999 254 4569</a> 
+									<p class='center'> <a href='tel:019999261191' title='Clic para llamar' > <i class='icon-phone link-icon'> </i> <br> 
+										Tel: 01 9999 261191</a> 
 									</p>
 								</div>
 								<div class='col-md-6 col-sm-6'>
