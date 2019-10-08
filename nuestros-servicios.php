@@ -48,7 +48,7 @@
 							<ul>
 								<li>Acompañamiento de personal de enfermería o cuidadoras asistenciales dependiendo de las necesidades del paciente.</li>
 								<li>Contamos con turnos de 8, 12 y 24 horas.</li>
-								<li>Nuestra atención se basa en la <b>metodología PAE: Proceso de Atención Domiciliaria</b>, con el que creamos planes de cuidados únicos y personalizados centrados en el individuo y no en la enfermedad.</li>
+								<li>Nuestra atención se basa en la <b>metodología PAE: Proceso de Atención de Enfermería</b>, con el que creamos planes de cuidados únicos y personalizados centrados en el individuo y no en la enfermedad.</li>
 							</ul>
 							<h2><img class="titulo-icon" src='images/icono-acompanamiento-hospitalario.png' alt='Acompañamiento a clinicas y hospitales'> ACOMPAÑAMIENTO HOSPITALARIO</h2>
 							<ul>
