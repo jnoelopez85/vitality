@@ -35,7 +35,7 @@
 						</figure>
 						<div class='gtco-text text-left'>
 							<h1>Nuestra misión</h1>
-							<p>Somos una organización al servicio del cuidado integral de la salud de nuestros pacientes y de sus familiares, prestando servicios de salud de alta calidad en casa u hospital, en materia de atención de enfermería preventiva y curativa; asistencia médica, cuidados asistenciales, psicoterapéuticos, psicológicos y de rehabilitación. Trabajando cada día por mejorar su calidad de vida y con el propósito de crear un vínculo de amistad, en donde se sientan escuchados, valorados y apoyados.</p>
+							<p>Somos una organización al servicio del cuidado integral de la salud en las diferentes etapas vitales del ser humano, mediante servicios de promoción a la salud en casa u hospital, en materia de atención de enfermería, asistencia médica, cuidados asistenciales, rehabilitación y psicoterapia, con altos estándares de calidad y humanismo.</p>
 						</div>
 					</div>
 				</div>
@@ -47,7 +47,7 @@
 						</figure>
 						<div class='gtco-text text-left'>
 							<h1>Nuestra visión</h1>
-							<p>Consolidarnos en el Sureste como una empresa líder y confiable en el ramo de servicios de cuidado integral de la salud de nuestros pacientes y de sus familiares, con altos estándares de calidad y profesionalismo.</p></p>
+							<p>Consolidarnos en el sureste por ser una empresa líder, innovadora, humana y confiable en los cuidados integrales de la salud en casa u hospital, con el apoyo de profesionales altamente capacitados y calificados y bajo principios éticos, morales y con fundamentación científica.</p>
 						</div>
 					</div>
 				</div>
