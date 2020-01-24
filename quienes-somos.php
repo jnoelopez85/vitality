@@ -47,7 +47,7 @@
 						</figure>
 						<div class='gtco-text text-left'>
 							<h1>Nuestra visión</h1>
-							<p>Consolidarnos en el sureste por ser una empresa líder, innovadora, humana y confiable en los cuidados integrales de la salud en domicilio u hospital, bajo principios éticos, morales y con fundamentación científica, y apoyados de profesionales altamente capacitados y calificados.</p>
+							<p>Consolidarnos en el sureste por ser una empresa líder, innovadora, humana y confiable en los cuidados integrales de la salud en casa u hospital, con el apoyo de profesionales altamente capacitados y calificados y bajo principios éticos, morales y con fundamentación científica.</p>
 						</div>
 					</div>
 				</div>
